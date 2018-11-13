@@ -15,8 +15,12 @@ public class ProgDyn2DynamiteMinimizer extends BaseDynamiteMinimizer {
 		// N : goal
 		double [][] countMatrix = new double [dynamites.size() + 1][goal + 1];
 
-		// Sort
-		// Collections.sort(dynamites, (Dynamite d1, Dynamite d2) -> d1.getPower() - d2.getPower());
+		// Sort dynamites by power
+		// * * (Worsen performances but more accurate implementation of algorithm)
+		// ex: for [6,5,1,10] and goal = 11
+		// sorted answer = 10 + 1
+		// unsorted answer = 6 + 5
+		Collections.sort(dynamites, (Dynamite d1, Dynamite d2) -> d1.getPower() - d2.getPower());
 
 		// Step 2 : Set infinity and default pivots
 		for (int i = 1; i < countMatrix.length; i++) {
@@ -30,7 +34,7 @@ public class ProgDyn2DynamiteMinimizer extends BaseDynamiteMinimizer {
 		}
 
 
-		// Main loop
+		// Step 3 : Main loop
 		for (int i = 1; i < countMatrix.length; i++) {
 			for (int j = 1; j < countMatrix[i].length; j++) {
 				Integer dynamitePower = dynamites.get(i-1).getPower();
@@ -55,12 +59,35 @@ public class ProgDyn2DynamiteMinimizer extends BaseDynamiteMinimizer {
 			}
 		}
 
-		System.out.printf("\n");
-		System.out.printf("Minimum : \n");
-		System.out.print(countMatrix[dynamites.size()-1][goal]);
-		System.out.printf("\n");
+		// Step 4 : Recombination
+		// Get back the combination from the table
+		List<Dynamite> usedDynamites = new ArrayList<Dynamite>();
+		int i = dynamites.size();
+		int j = goal;
+		while(countMatrix[i][j] > 0) {
+			Dynamite dynamiteUsed = dynamites.get(i-1);
 
-		return new ArrayList<>();
+			Double left = Double.POSITIVE_INFINITY;
+			if (j >= dynamiteUsed.getPower()) {
+				left = 1 + countMatrix[i][j - dynamiteUsed.getPower()];
+			}
+
+			Double right = Double.POSITIVE_INFINITY;
+			if (i > 1) {
+				right = countMatrix[i-1][j];
+			}
+
+			// Add to used every time we move from right to left
+			if (left <= right && j - dynamiteUsed.getPower() >= 0) {
+				j -= dynamiteUsed.getPower();
+				Dynamite leftDynamite = dynamites.get(i-1);
+				usedDynamites.add(leftDynamite);
+			} else {
+				i -= 1;
+			}
+		}
+
+		return usedDynamites;
 	}
 
 }

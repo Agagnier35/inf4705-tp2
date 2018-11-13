@@ -2,297 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="10f812a8-8ed7-4d3d-bf64-8ad06e2f8df5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/INF4705-TP2/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/PR_1000_4000_1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/PR_1000_4000_10.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/PR_1000_4000_2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/PR_1000_4000_3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/PR_1000_4000_4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/PR_1000_4000_5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/PR_1000_4000_6.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/PR_1000_4000_7.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/PR_1000_4000_8.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/PR_1000_4000_9.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/PR_100_400_1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/PR_100_400_10.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/PR_100_400_2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/PR_100_400_3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/PR_100_400_4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/PR_100_400_5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/PR_100_400_6.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/PR_100_400_7.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/PR_100_400_8.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/PR_100_400_9.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/PR_500_2000_1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/PR_500_2000_10.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/PR_500_2000_2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/PR_500_2000_3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/PR_500_2000_4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/PR_500_2000_5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/PR_500_2000_6.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/PR_500_2000_7.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/PR_500_2000_8.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/PR_500_2000_9.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-10-10-01.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-10-10-02.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-10-10-03.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-10-10-04.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-10-10-05.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-10-10-06.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-10-10-07.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-10-10-08.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-10-10-09.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-10-10-10.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-10-100-01.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-10-100-02.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-10-100-03.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-10-100-04.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-10-100-05.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-10-100-06.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-10-100-07.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-10-100-08.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-10-100-09.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-10-100-10.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-10-1000-01.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-10-1000-02.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-10-1000-03.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-10-1000-04.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-10-1000-05.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-10-1000-06.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-10-1000-07.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-10-1000-08.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-10-1000-09.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-10-1000-10.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-100-10-01.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-100-10-02.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-100-10-03.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-100-10-04.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-100-10-05.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-100-10-06.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-100-10-07.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-100-10-08.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-100-10-09.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-100-10-10.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-100-100-01.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-100-100-02.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-100-100-03.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-100-100-04.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-100-100-05.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-100-100-06.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-100-100-07.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-100-100-08.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-100-100-09.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-100-100-10.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-100-1000-01.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-100-1000-02.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-100-1000-03.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-100-1000-04.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-100-1000-05.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-100-1000-06.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-100-1000-07.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-100-1000-08.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-100-1000-09.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-100-1000-10.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-1000-10-01.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-1000-10-02.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-1000-10-03.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-1000-10-04.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-1000-10-05.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-1000-10-06.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-1000-10-07.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-1000-10-08.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-1000-10-09.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-1000-10-10.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-1000-100-01.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-1000-100-02.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-1000-100-03.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-1000-100-04.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-1000-100-05.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-1000-100-06.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-1000-100-07.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-1000-100-08.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-1000-100-09.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-1000-100-10.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-1000-1000-01.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-1000-1000-02.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-1000-1000-03.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-1000-1000-04.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-1000-1000-05.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-1000-1000-06.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-1000-1000-07.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-1000-1000-08.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-1000-1000-09.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-1000-1000-10.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-20-10-01.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-20-10-02.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-20-10-03.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-20-10-04.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-20-10-05.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-20-10-06.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-20-10-07.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-20-10-08.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-20-10-09.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-20-10-10.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-20-100-01.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-20-100-02.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-20-100-03.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-20-100-04.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-20-100-05.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-20-100-06.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-20-100-07.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-20-100-08.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-20-100-09.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-20-100-10.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-20-1000-01.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-20-1000-02.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-20-1000-03.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-20-1000-04.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-20-1000-05.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-20-1000-06.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-20-1000-07.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-20-1000-08.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-20-1000-09.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-20-1000-10.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-200-10-01.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-200-10-02.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-200-10-03.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-200-10-04.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-200-10-05.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-200-10-06.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-200-10-07.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-200-10-08.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-200-10-09.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-200-10-10.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-200-100-01.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-200-100-02.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-200-100-03.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-200-100-04.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-200-100-05.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-200-100-06.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-200-100-07.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-200-100-08.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-200-100-09.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-200-100-10.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-200-1000-01.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-200-1000-02.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-200-1000-03.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-200-1000-04.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-200-1000-05.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-200-1000-06.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-200-1000-07.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-200-1000-08.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-200-1000-09.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-200-1000-10.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-2000-10-01.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-2000-10-02.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-2000-10-03.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-2000-10-04.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-2000-10-05.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-2000-10-06.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-2000-10-07.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-2000-10-08.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-2000-10-09.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-2000-10-10.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-2000-100-01.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-2000-100-02.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-2000-100-03.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-2000-100-04.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-2000-100-05.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-2000-100-06.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-2000-100-07.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-2000-100-08.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-2000-100-09.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-2000-100-10.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-2000-1000-01.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-2000-1000-02.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-2000-1000-03.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-2000-1000-04.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-2000-1000-05.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-2000-1000-06.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-2000-1000-07.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-2000-1000-08.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-2000-1000-09.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-2000-1000-10.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-50-10-01.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-50-10-02.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-50-10-03.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-50-10-04.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-50-10-05.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-50-10-06.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-50-10-07.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-50-10-08.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-50-10-09.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-50-10-10.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-50-100-01.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-50-100-02.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-50-100-03.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-50-100-04.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-50-100-05.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-50-100-06.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-50-100-07.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-50-100-08.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-50-100-09.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-50-100-10.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-50-1000-01.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-50-1000-02.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-50-1000-03.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-50-1000-04.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-50-1000-05.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-50-1000-06.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-50-1000-07.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-50-1000-08.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-50-1000-09.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-50-1000-10.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-500-10-01.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-500-10-02.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-500-10-03.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-500-10-04.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-500-10-05.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-500-10-06.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-500-10-07.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-500-10-08.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-500-10-09.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-500-10-10.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-500-100-01.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-500-100-02.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-500-100-03.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-500-100-04.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-500-100-05.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-500-100-06.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-500-100-07.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-500-100-08.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-500-100-09.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-500-100-10.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-500-1000-01.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-500-1000-02.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-500-1000-03.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-500-1000-04.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-500-1000-05.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-500-1000-06.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-500-1000-07.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-500-1000-08.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-500-1000-09.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jeux_de_donnees/WC-500-1000-10.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/inf4705/tp2/ApplicationStartup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/inf4705/tp2/DecryptedFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/inf4705/tp2/FileReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/inf4705/tp2/Logger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/inf4705/tp2/algorithms/BaseDynamiteMinimizer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/inf4705/tp2/algorithms/GloutonDynamiteMinimizer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/inf4705/tp2/algorithms/ProgDyn1DynamiteMinimizer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/inf4705/tp2/algorithms/ProgDyn2DynamiteMinimizer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/inf4705/tp2/algorithms/RecuitDynamiteMinimizer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/inf4705/tp2/exception/InvalidArgumentException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/inf4705/tp2/exception/InvalidDataSetsException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/inf4705/tp2/model/Dynamite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp2-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp2-A18.odt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/verification/exemplaire1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/verification/exemplaire2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/verification/exemplaire3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/inf4705/tp2/algorithms/ProgDyn1DynamiteMinimizer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/inf4705/tp2/algorithms/ProgDyn1DynamiteMinimizer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/inf4705/tp2/algorithms/ProgDyn2DynamiteMinimizer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/inf4705/tp2/algorithms/ProgDyn2DynamiteMinimizer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tp2-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/tp2-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tp2.iml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -357,16 +71,70 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="980957685">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="3" />
+          <entry key="txt" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="3" />
+          <entry key="PLAIN_TEXT" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="2284" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="2284" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/inf4705/tp2/ApplicationStartup.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="174">
-              <caret line="40" selection-start-line="40" selection-end-line="40" />
+            <state relative-caret-position="168">
+              <caret line="37" selection-start-line="37" selection-end-line="37" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/inf4705/tp2/exception/InvalidDataSetsException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/inf4705/tp2/exception/InvalidArgumentException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+              <folding>
+                <element signature="e#139#140#0" expanded="true" />
+                <element signature="e#156#157#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -375,26 +143,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/inf4705/tp2/algorithms/RecuitDynamiteMinimizer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
+            <state relative-caret-position="135">
               <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#262#263#0" expanded="true" />
-                <element signature="e#280#281#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/inf4705/tp2/algorithms/GloutonDynamiteMinimizer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#263#264#0" expanded="true" />
-                <element signature="e#281#282#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -403,98 +155,51 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/inf4705/tp2/algorithms/ProgDyn1DynamiteMinimizer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+            <state relative-caret-position="635">
+              <caret line="56" column="33" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="56" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#264#265#0" expanded="true" />
-                <element signature="e#282#283#0" expanded="true" />
+                <element signature="e#519#527#0" expanded="true" />
+                <element signature="e#644#652#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/inf4705/tp2/algorithms/ProgDyn2DynamiteMinimizer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="37" column="28" lean-forward="true" selection-start-line="37" selection-start-column="28" selection-end-line="37" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/inf4705/tp2/algorithms/ProgDyn2DynamiteMinimizer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#264#265#0" expanded="true" />
-                <element signature="e#282#283#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/jeux_de_donnees/PR_100_400_1.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jeux_de_donnees/WC-10-10-01.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jeux_de_donnees/PR_1000_4000_10.txt">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/inf4705/tp2/algorithms/BaseDynamiteMinimizer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
+            <state relative-caret-position="105">
               <caret line="7" column="91" selection-start-line="7" selection-start-column="91" selection-end-line="7" selection-end-column="91" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/inf4705/tp2/model/Dynamite.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
-              <folding>
-                <element signature="e#197#198#0" expanded="true" />
-                <element signature="e#213#214#0" expanded="true" />
-                <element signature="e#288#289#0" expanded="true" />
-                <element signature="e#307#308#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/inf4705/tp2/FileReader.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="70">
-              <caret line="26" selection-start-line="26" selection-end-line="26" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/inf4705/tp2/DecryptedFile.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="42" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#263#264#0" expanded="true" />
-                <element signature="e#286#287#0" expanded="true" />
-                <element signature="e#320#321#0" expanded="true" />
-                <element signature="e#343#344#0" expanded="true" />
-                <element signature="e#407#408#0" expanded="true" />
-                <element signature="e#432#433#0" expanded="true" />
-                <element signature="e#450#451#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/inf4705/tp2/Logger.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="23" column="54" selection-start-line="23" selection-start-column="54" selection-end-line="23" selection-end-column="54" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#333#334#0" expanded="true" />
-                <element signature="e#355#356#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -508,6 +213,14 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Syste</find>
+      <find>chico</find>
+      <find>sup</find>
+      <find>dynamites.get</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -525,12 +238,12 @@
         <option value="$PROJECT_DIR$/src/main/java/com/inf4705/tp2/algorithms/BaseDynamiteMinimizer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/inf4705/tp2/DecryptedFile.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/inf4705/tp2/algorithms/GloutonDynamiteMinimizer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/inf4705/tp2/algorithms/ProgDyn1DynamiteMinimizer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/inf4705/tp2/algorithms/ProgDyn2DynamiteMInimizer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/inf4705/tp2/algorithms/ProgDyn2DynamiteMinimizer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/inf4705/tp2/algorithms/RecuitDynamiteMinimizer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/inf4705/tp2/FileReader.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/inf4705/tp2/ApplicationStartup.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/inf4705/tp2/algorithms/ProgDyn1DynamiteMinimizer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/inf4705/tp2/algorithms/ProgDyn2DynamiteMinimizer.java" />
       </list>
     </option>
   </component>
@@ -563,7 +276,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="x" value="-12" />
     <option name="y" value="-12" />
     <option name="width" value="1026" />
@@ -576,30 +289,84 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="tp2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="inf4705-tp2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="inf4705-tp2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="inf4705-tp2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="inf4705-tp2" type="462c0819:PsiDirectoryNode" />
+              <item name="jeux_de_donnees" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="inf4705-tp2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="inf4705-tp2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="inf4705-tp2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="inf4705-tp2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="inf4705-tp2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="inf4705-tp2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="inf4705-tp2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="inf4705-tp2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="tp2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="tp2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tp2" type="462c0819:PsiDirectoryNode" />
+              <item name="inf4705-tp2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="inf4705-tp2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tp2" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="inf4705-tp2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="inf4705-tp2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tp2" type="462c0819:PsiDirectoryNode" />
+              <item name="exception" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="inf4705-tp2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="inf4705-tp2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tp2" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540923172706" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/tp2-1.0-SNAPSHOT.jar" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542068863649" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
@@ -619,8 +386,8 @@
   <component name="RunManager">
     <configuration name="Execute Jar" type="JarApplication" factoryName="JAR Application">
       <option name="JAR_PATH" value="$PROJECT_DIR$/tp2-1.0-SNAPSHOT.jar" />
-      <option name="PROGRAM_PARAMETERS" value="glouton &quot;C:\Users\fagagnier\Documents\School stuff\inf4705\tp2\jeux_de_donnees\PR_100_400_1.txt&quot; -t" />
-      <option name="WORKING_DIRECTORY" value="C:\Users\fagagnier\Documents\School stuff\inf4705\tp2" />
+      <option name="PROGRAM_PARAMETERS" value="progdyn2 &quot;$PROJECT_DIR$/jeux_de_donnees/PR_100_400_1.txt&quot; -t" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <method v="2">
         <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/pom.xml" goal="clean install" />
@@ -646,20 +413,20 @@
     <option name="totallyTimeSpent" value="6201000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
+    <frame x="0" y="0" width="1431" height="1080" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2534413" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.34989202" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.3291815" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.20818505" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.45373666" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.20792079" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.45346534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -668,6 +435,8 @@
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32871288" />
+      <window_info anchor="bottom" id="Statistic" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -686,6 +455,24 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/inf4705/tp2/algorithms/ProgDyn1DynamiteMinimizer.java</url>
+          <line>51</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/inf4705/tp2/algorithms/ProgDyn2DynamiteMinimizer.java</url>
+          <line>59</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
@@ -694,60 +481,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/inf4705/tp2/exception/InvalidArgumentException.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/inf4705/tp2/algorithms.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/inf4705/tp2/FileReader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-          <folding>
-            <element signature="e#139#140#0" expanded="true" />
-            <element signature="e#156#157#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/inf4705/tp2/model/Dynamite.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
-          <folding>
-            <element signature="e#197#198#0" expanded="true" />
-            <element signature="e#213#214#0" expanded="true" />
-            <element signature="e#288#289#0" expanded="true" />
-            <element signature="e#307#308#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/inf4705/tp2/Logger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="23" column="54" selection-start-line="23" selection-start-column="54" selection-end-line="23" selection-end-column="54" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#333#334#0" expanded="true" />
-            <element signature="e#355#356#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/inf4705/tp2/exception/InvalidDataSetsException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-          <folding>
-            <element signature="e#139#140#0" expanded="true" />
-            <element signature="e#156#157#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/inf4705/tp2/algorithms.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/inf4705/tp2/algorithms/BaseDynamiteMinimizer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="91" selection-start-line="7" selection-start-column="91" selection-end-line="7" selection-end-column="91" />
+        <state relative-caret-position="315">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -756,7 +494,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/inf4705/tp2/DecryptedFile.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
+        <state relative-caret-position="180">
           <caret line="19" column="42" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -771,68 +509,113 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/inf4705/tp2/Logger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="23" column="54" selection-start-line="23" selection-start-column="54" selection-end-line="23" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/inf4705/tp2/algorithms/GloutonDynamiteMinimizer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
+        <state relative-caret-position="135">
           <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#263#264#0" expanded="true" />
-            <element signature="e#281#282#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/inf4705/tp2/algorithms/ProgDyn1DynamiteMinimizer.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/inf4705/tp2/exception/InvalidDataSetsException.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#264#265#0" expanded="true" />
-            <element signature="e#282#283#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="45">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/inf4705/tp2/algorithms/ProgDyn2DynamiteMinimizer.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/inf4705/tp2/exception/InvalidArgumentException.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+        <state relative-caret-position="60">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#264#265#0" expanded="true" />
-            <element signature="e#282#283#0" expanded="true" />
+            <element signature="e#139#140#0" expanded="true" />
+            <element signature="e#156#157#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/inf4705/tp2/algorithms/RecuitDynamiteMinimizer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
+        <state relative-caret-position="135">
           <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#262#263#0" expanded="true" />
-            <element signature="e#280#281#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/inf4705/tp2/FileReader.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/inf4705/tp2/model/Dynamite.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="70">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="105">
+          <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/inf4705/tp2/ApplicationStartup.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        <state relative-caret-position="168">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/inf4705/tp2/algorithms/ProgDyn1DynamiteMinimizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="635">
+          <caret line="56" column="33" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="56" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#519#527#0" expanded="true" />
+            <element signature="e#644#652#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/inf4705/tp2/algorithms/BaseDynamiteMinimizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="91" selection-start-line="7" selection-start-column="91" selection-end-line="7" selection-end-column="91" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/util/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="149" column="8" selection-start-line="149" selection-start-column="8" selection-end-line="149" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jeux_de_donnees/PR_100_400_1.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jeux_de_donnees/WC-10-10-01.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jeux_de_donnees/PR_1000_4000_10.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/inf4705/tp2/algorithms/ProgDyn2DynamiteMinimizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="37" column="28" lean-forward="true" selection-start-line="37" selection-start-column="28" selection-end-line="37" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

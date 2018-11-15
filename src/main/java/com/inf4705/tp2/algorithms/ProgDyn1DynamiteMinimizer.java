@@ -2,6 +2,7 @@ package com.inf4705.tp2.algorithms;
 
 import java.util.ArrayList;
 import java.util.Collections;
+import java.util.Comparator;
 import java.util.List;
 
 import com.inf4705.tp2.model.Dynamite;
@@ -10,14 +11,14 @@ public class ProgDyn1DynamiteMinimizer extends BaseDynamiteMinimizer {
 	@Override
 	public List<Dynamite> minimizeDynamiteUsage(List<Dynamite> dynamites, int goal) {
 
-		Collections.sort(dynamites, (Dynamite d1, Dynamite d2) -> d1.getPower() - d2.getPower());
+		dynamites.sort(Comparator.comparing(Dynamite::getPower));
 		// Step 1: Define c[1...N] ArrayList -> [0, N + 1]
 		// N : goal
 		// c[j] : minimum amount of dynamite required for the quantity
-		ArrayList<Double> countList = new ArrayList<Double>(goal + 1);
+		ArrayList<Double> countList = new ArrayList<>(goal + 1);
 
 		// Step 2: Define I[1...N] index ArrayList -> [0, N + 1]
-		ArrayList<Double> indexList = new ArrayList<Double>(goal + 1);
+		ArrayList<Double> indexList = new ArrayList<>(goal + 1);
 
 		// Step 3: Fill count list with Integer.MAX_VALUE (suppose to be infinity)
 		for (int j = 0; j < goal + 1; j++) {
@@ -50,22 +51,31 @@ public class ProgDyn1DynamiteMinimizer extends BaseDynamiteMinimizer {
 			}
 		}
 
-		//Step 6: Recombination
-		Integer index = goal;
-		Integer value = goal;
-		List<Dynamite> usedDynamites = new ArrayList<Dynamite>();
-		while(value > 0) {
-			Integer currentValue = indexList.get(index).intValue();
-			if(currentValue < 0) {
-				Dynamite currentDynamite = dynamites.get(-1 * currentValue);
-				usedDynamites.add(currentDynamite);
-				value -= currentDynamite.getPower();
-				index = value;
-			} else {
-				index = currentValue;
-			}
-		}
+        Integer index = goal;
+        Integer value = goal;
+        List<Dynamite> usedDynamites = new ArrayList<>();
+        while(value > 0) {
+            Integer currentValue = indexList.get(index).intValue();
+            if(currentValue < 0) {
+                Dynamite currentDynamite = dynamites.get(-1 * currentValue);
+                usedDynamites.add(currentDynamite);
+                value -= currentDynamite.getPower();
+                index = value;
+            }
+            else if(currentValue == Integer.MAX_VALUE) {
+                index -= 1;
+                value -= 1;
+            }
+            else {
+                index = currentValue;
+            }
+        }
 
-		return usedDynamites;
+        return usedDynamites;
 	}
+
+    @Override
+    public double getFX(int goal) {
+        return 1;
+    }
 }

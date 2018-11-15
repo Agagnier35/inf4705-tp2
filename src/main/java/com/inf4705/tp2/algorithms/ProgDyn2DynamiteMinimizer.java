@@ -2,6 +2,7 @@ package com.inf4705.tp2.algorithms;
 
 import java.util.ArrayList;
 import java.util.Collections;
+import java.util.Comparator;
 import java.util.List;
 
 import com.inf4705.tp2.model.Dynamite;
@@ -20,7 +21,7 @@ public class ProgDyn2DynamiteMinimizer extends BaseDynamiteMinimizer {
 		// ex: for [6,5,1,10] and goal = 11
 		// sorted answer = 10 + 1
 		// unsorted answer = 6 + 5
-		Collections.sort(dynamites, (Dynamite d1, Dynamite d2) -> d1.getPower() - d2.getPower());
+        dynamites.sort(Comparator.comparing(Dynamite::getPower));
 
 		// Step 2 : Set infinity and default pivots
 		for (int i = 1; i < countMatrix.length; i++) {
@@ -89,5 +90,10 @@ public class ProgDyn2DynamiteMinimizer extends BaseDynamiteMinimizer {
 
 		return usedDynamites;
 	}
+
+    @Override
+    public double getFX(int goal) {
+        return 1;
+    }
 
 }

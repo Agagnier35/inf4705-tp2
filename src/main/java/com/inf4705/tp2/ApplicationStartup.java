@@ -41,6 +41,7 @@ public class ApplicationStartup {
 		long timeElapsed = Duration.between(start, end).toMillis();
 		Logger.logTime(timeElapsed);
 		Logger.logResult(resultSet);
+		Logger.createCSVResults(algo, resultSet, timeElapsed, minimizer.getFX(file.getGoal()));
 	}
 
 	private static void setUpOptionalArguments(String[] args, int index) throws Exception {

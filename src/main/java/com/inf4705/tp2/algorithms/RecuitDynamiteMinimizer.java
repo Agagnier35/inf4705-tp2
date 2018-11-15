@@ -37,7 +37,12 @@ public class RecuitDynamiteMinimizer extends BaseDynamiteMinimizer {
 		return bestSolution;
 	}
 
-	private List<Dynamite> neighbor(List<Dynamite> solution, List<Dynamite> dynamites, int goal) {
+    @Override
+    public double getFX(int goal) {
+        return 1;
+    }
+
+    private List<Dynamite> neighbor(List<Dynamite> solution, List<Dynamite> dynamites, int goal) {
 		Dynamite randomDyn;
 		List<Dynamite> neighbor = new ArrayList<>(solution);
 		do {

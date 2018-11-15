@@ -1,6 +1,7 @@
 package com.inf4705.tp2.algorithms;
 
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
 
 import com.inf4705.tp2.model.Dynamite;
@@ -8,6 +9,8 @@ import com.inf4705.tp2.model.Dynamite;
 public class ProgDyn1DynamiteMinimizer extends BaseDynamiteMinimizer {
 	@Override
 	public List<Dynamite> minimizeDynamiteUsage(List<Dynamite> dynamites, int goal) {
+
+		Collections.sort(dynamites, (Dynamite d1, Dynamite d2) -> d1.getPower() - d2.getPower());
 		// Step 1: Define c[1...N] ArrayList -> [0, N + 1]
 		// N : goal
 		// c[j] : minimum amount of dynamite required for the quantity
@@ -38,7 +41,7 @@ public class ProgDyn1DynamiteMinimizer extends BaseDynamiteMinimizer {
 		for (int j = 1; j < countList.size(); j++) {
 			// Check if boundary
 			if (countList.get(j) != 1) {
-				for (int i = 1; i < Math.floor(j / 2); i++) {
+				for (int i = 1; i <= Math.floor(j / 2); i++) {
 					if (countList.get(j) > countList.get(i) + countList.get(j - i)) {
 						countList.set(j, countList.get(i) + countList.get(j - i));
 						indexList.set(j, (double)(i));
@@ -47,13 +50,22 @@ public class ProgDyn1DynamiteMinimizer extends BaseDynamiteMinimizer {
 			}
 		}
 
-		System.out.printf("\n");
-		System.out.printf("Minimum : \n");
-		System.out.print(countList.get(goal).intValue());
-		System.out.printf("\nIndex : \n");
-		System.out.print(indexList.get(goal).intValue());
-		System.out.printf("\n");
+		//Step 6: Recombination
+		Integer index = goal;
+		Integer value = goal;
+		List<Dynamite> usedDynamites = new ArrayList<Dynamite>();
+		while(value > 0) {
+			Integer currentValue = indexList.get(index).intValue();
+			if(currentValue < 0) {
+				Dynamite currentDynamite = dynamites.get(-1 * currentValue);
+				usedDynamites.add(currentDynamite);
+				value -= currentDynamite.getPower();
+				index = value;
+			} else {
+				index = currentValue;
+			}
+		}
 
-		return new ArrayList<>();
+		return usedDynamites;
 	}
 }

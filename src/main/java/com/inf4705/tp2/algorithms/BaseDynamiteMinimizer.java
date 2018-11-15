@@ -10,10 +10,6 @@ public abstract class BaseDynamiteMinimizer {
 	public abstract double getFX(int goal);
 
 	protected int sum(List<Dynamite> dynamites){
-		int sum = 0;
-		for(Dynamite dyn: dynamites){
-			sum += dyn.getPower();
-		}
-		return sum;
+		return dynamites.stream().mapToInt(Dynamite::getPower).sum();
 	}
 }

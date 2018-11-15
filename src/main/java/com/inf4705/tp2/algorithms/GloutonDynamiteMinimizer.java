@@ -14,11 +14,14 @@ public class GloutonDynamiteMinimizer extends BaseDynamiteMinimizer {
         dynamites.sort(Comparator.comparing(Dynamite::getPower).reversed());
         List<Dynamite> solution =  new ArrayList<>();
         int sum = 0;
+        int index = 0;
         while (sum < goal){
-            Dynamite max = max(dynamites, goal - sum);
-            if(max.getId() == -1){//no dynamites fits, abort
+            index = max(dynamites, goal - sum, index);
+            if(index == -1){//no dynamites fits, abort
                 break;
             }
+            Dynamite max = dynamites.get(index);
+            index++;
             solution.add(max);
             sum += max.getPower();
         }
@@ -30,15 +33,15 @@ public class GloutonDynamiteMinimizer extends BaseDynamiteMinimizer {
         return 1;
     }
 
-    private Dynamite max(List<Dynamite> dynamites, int max) {
-        Dynamite maxDyn = new Dynamite(-1, 0);
-        for (Dynamite dyn : dynamites) {
-            if (dyn.getPower() < max && dyn.getPower() > maxDyn.getPower()) {
-                maxDyn = dyn;
+    private int max(List<Dynamite> dynamites, int max, Integer index) {
+        while (index < dynamites.size()){
+            Dynamite dyn = dynamites.get(index);
+            if (dyn.getPower() < max) {
+                return index;
             }
+            index++;
         }
-        dynamites.remove(maxDyn);
-        return maxDyn;
+        return -1;
     }
 
 }

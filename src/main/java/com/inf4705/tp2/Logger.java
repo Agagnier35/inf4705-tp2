@@ -26,21 +26,20 @@ public class Logger {
         }
     }
 
-    public static void logResult(List<Dynamite> res){
+    public static void logResult(List<Dynamite> res) {
         if (p) {
             System.out.println(res.stream().map(d -> String.valueOf(d.getId())).collect(Collectors.joining(" ")));
 
         }
     }
 
-    public static void createCSVResults(String algo, List<Dynamite> res, long time, double fx) throws Exception{
+    public static void createCSVResults(String algo, int weight, int precision, long time, double fx) throws Exception {
         CSVFileWriter fileWriter = new CSVFileWriter();
         File resultsFolder = new File(getJarPath() + "/resultats");
-        if(!resultsFolder.exists()){
+        if (!resultsFolder.exists()) {
             resultsFolder.mkdir();
         }
-        int weightRes = res.stream().mapToInt(Dynamite::getPower).sum();
-        fileWriter.appendResultToFile(resultsFolder.getPath() + "/results.csv", algo, weightRes, time, fx);
+        fileWriter.appendResultToFile(resultsFolder.getPath() + "/results.csv", algo, weight, time, fx, precision);
     }
 
     private static boolean canLog() {
